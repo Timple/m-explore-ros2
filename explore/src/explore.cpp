@@ -70,9 +70,7 @@ Explore::Explore()
 
   move_base_client_ =
       rclcpp_action::create_client<nav2_msgs::action::NavigateToPose>(this,
-                                                                      "/navigat"
-                                                                      "e_to_"
-                                                                      "pose");
+                                                                      "/NavigateToPose");
 
   search_ = frontier_exploration::FrontierSearch(costmap_client_.getCostmap(),
                                                  potential_scale_, gain_scale_,
