@@ -6,6 +6,8 @@ ROS2 package port for (not yet multi) robot exploration of [m-explore](https://g
 ### TB3
 https://user-images.githubusercontent.com/8033598/127044265-f59ee9d1-93c6-4b73-b022-467eeb671d2a.mp4
 
+https://user-images.githubusercontent.com/18732666/128494257-3e265301-24c0-4c5a-b674-7ddda84fb242.mp4
+
 
 Installing
 ----------
